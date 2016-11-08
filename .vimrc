@@ -8,8 +8,8 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 Plugin 'tmhedberg/SimpylFold'
 Plugin 'vim-scripts/indentpython.vim'
-Bundle 'Valloric/YouCompleteMe'
-Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+"Bundle 'Valloric/YouCompleteMe'
+"Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Plugin 'scrooloose/syntastic'
 Plugin 'nvie/vim-flake8'
 Plugin 'scrooloose/nerdtree'
